@@ -1,0 +1,47 @@
+body{
+  font-family: 'Fraunces', serif;
+}
+.headding
+{
+  background-color:#51c2d5;
+  height: 150px;
+}
+h1
+{
+  padding-top: 20px;
+  margin: 25px;
+  font-family: 'Fraunces', serif;
+  font-weight: bold;
+}
+.course
+{
+  padding: 25px;
+  background-color: #bbf1fa;
+
+
+}
+.Web
+{
+  padding: 35px;
+  background-color:#fff3e6;
+  margin-top: 10px;
+
+
+}
+.network
+{
+  padding: 35px;
+  background-color:#EFF7E1;
+  margin-top: 10px;
+}
+.headd
+{
+  text-align: center;
+height: 100px;
+background-color:#BEE5D3;
+
+}
+.dd
+{
+  text-align: right;
+}
